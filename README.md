@@ -1,2 +1,2 @@
 # Redes
-Meu diretorio de estudose anotações  sobre Redes
+Meu diretorio de estudos e anotações  sobre Redes
